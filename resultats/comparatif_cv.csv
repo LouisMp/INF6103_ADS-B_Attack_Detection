@@ -1,0 +1,9 @@
+modèle,attaque,précision,rappel,F1,avions détectés (effet),avions détectés (étiquette brute),retard médian (msgs),fausses alertes / 1000 msgs normaux,avions normaux avec fausse alerte
+Non supervisé (enveloppe normale),Jumping,1.0,1.0,1.0,19/19,19/58,0.0,,
+Non supervisé (enveloppe normale),Standing still,1.0,1.0,1.0,14/14,14/39,0.0,,
+Non supervisé (enveloppe normale),VTM,1.0,0.9875924517868252,0.9937574988262707,37/37,37/37,5.0,,
+Non supervisé (enveloppe normale),Toute attaque (binaire),1.0,0.9887376082318986,0.9943369141703342,,,,0.0,0/346
+Supervisé (forêt aléatoire),Jumping,1.0,1.0,1.0,19/19,19/58,0.0,,
+Supervisé (forêt aléatoire),Standing still,1.0,1.0,1.0,14/14,14/39,0.0,,
+Supervisé (forêt aléatoire),VTM,0.9999652705424741,0.9951268403953826,0.9975401884700664,37/37,37/37,1.0,,
+Supervisé (forêt aléatoire),Toute attaque (binaire),0.9999684900428536,0.9955766093612749,0.9977677167829969,,,,0.005127232268749006,1/346

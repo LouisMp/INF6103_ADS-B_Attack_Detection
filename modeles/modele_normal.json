@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "params": {
+    "vitesse_min_kt": 50,
+    "pas_msg_s": 0.6666666666666666,
+    "fenetre_cap": 8,
+    "marge": 1.5,
+    "planchers": {
+      "pas_norm": 0.2,
+      "fige_run": 3,
+      "d_cap": 0.5,
+      "d_alt": 100,
+      "cap_abs": 2.0
+    }
+  },
+  "seuils": {
+    "pas_norm_bas": 0.8,
+    "pas_norm_haut": 1.2,
+    "fige_run": 3,
+    "d_cap": 0.545,
+    "d_alt": 100,
+    "cap_abs": 2.996
+  },
+  "apprentissage": {
+    "captures": [
+      "capture_A_normal",
+      "capture_B1_entrainement"
+    ],
+    "avions": 346,
+    "messages": 195037,
+    "avions_ecartes": [],
+    "valeurs_extremes_normales": {
+      "pas_norm": [
+        0.927,
+        1.0545
+      ],
+      "fige_run": 0.0,
+      "d_cap": 0.3633,
+      "d_alt": 27.22,
+      "cap_abs": 1.997
+    }
+  }
+}

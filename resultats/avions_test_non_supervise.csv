@@ -1,0 +1,5 @@
+attaque,avions_étiquetés_en_vol,détectés_parmi_étiquetés,taux_étiquetés,avions_avec_effet,détectés_parmi_effet,taux_effet,bon_type,retard_médian_msgs,retard_max_msgs
+Jumping,203,92,0.45320197044334976,51.0,51.0,1.0,51.0,0.0,0.0
+Standing still,60,22,0.36666666666666664,22.0,22.0,1.0,22.0,0.0,0.0
+VTM,83,83,1.0,83.0,83.0,1.0,76.0,4.0,10.0
+Normal (jamais attaqué),27,2,0.07407407407407407,,,,,,
