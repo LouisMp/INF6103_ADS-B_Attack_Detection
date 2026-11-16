@@ -1,4 +1,4 @@
-# INF6103 – Détection d'attaques ADS-B (OpenScope-sec)
+# INF6103 – Détection d'attaques ADS-B (basé sur OpenScope-sec)
 
 Projet de session, INF6103 *Cybersécurité des infrastructures critiques*, Polytechnique Montréal, automne 2026.
 Équipe 2 (aéronautique) : Louis (LouisMp), Imane Ahmed Robleh, Emilie Côté, Lutchmee Devi Gopee.
